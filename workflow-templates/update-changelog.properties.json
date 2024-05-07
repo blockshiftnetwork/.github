@@ -1,0 +1,11 @@
+{
+  "name": "Update Changelog Workflow",
+  "description": "Auto update Changelog file using Github Action",
+  "iconName": "example-icon",
+  "categories": [
+      "Github Action",
+      "Changelog Updater"
+  ],
+  "filePatterns": [
+  ]
+}
